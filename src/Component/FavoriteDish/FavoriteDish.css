@@ -1,0 +1,21 @@
+.Dish{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    
+}
+.link-button{
+    background-color: brown;
+    border-radius: 25px;
+    width: 150px;
+    color: white;
+    font-size: 17px;
+   
+}
+/* .arrow-img{
+    width: 300px;
+} */
+.container{
+    margin-right: 20px;
+}

@@ -1,0 +1,46 @@
+.menuDiv{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+    background-color: #0c0606;
+    color: white;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+.menu-button{
+    background-color: rgb(41, 37, 165);
+    border-radius: 25px;
+    width: 150px;
+    color: white;
+    height: 30px;
+}
+/* .arrow-img{
+    width: 300px;
+} */
+.container{
+    margin-right: 20px;
+}
+.menuBar{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid  black; */
+}
+.Pizza-title{
+    /* color: yellow; */
+   
+    width: 340px;
+    font-size: 40px;
+    margin: 90px 90px 50px;
+}
+.Pizza-title span{
+    color: yellow;
+   
+}
+
+.link-all-button{
+    background-color: yellow;
+    border-radius: 20px;
+    padding: 5px;
+    width: 110px;
+}
