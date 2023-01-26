@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import FavoriteDish from './Component/FavoriteDish/FavoriteDish';
 import Recommended from './Component/Recommended/Recommended';
 import Menu from './Component/Menu/Menu';
+import Blog from './Component/Blog/Blog';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
 <FavoriteDish/>
 <Recommended/>
 <Menu/>
+<Blog/>
 <Footer/>
 
     </div>

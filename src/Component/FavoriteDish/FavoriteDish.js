@@ -1,11 +1,17 @@
 import React from "react";
 import photo from "../../Assets/Images/biryani.png";
 import aerrow from "../../Assets/Images/aerrow.jpg";
+import finger from "../../Assets/Images/french-fries.webp"
+import Button from "react-bootstrap/Button";
+import Card from "react-bootstrap/Card";
+// import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 import "./FavoriteDish.css";
 
 const FavoriteDish = () => {
   return (
-    <div className="Dish">
+    <div >
+      <div className="Dish">
       <div>
         <img
           src={aerrow}
@@ -50,7 +56,40 @@ const FavoriteDish = () => {
       <div>
         <img src={photo} alt="" />
       </div>
+      </div>
+   <div>
+   {/* <Col className="Card">
+          <Card className="shadow p-3 mb-5 bg-body rounded">
+          
+            <Card.Body>
+              <Card.Title>French Fries</Card.Title>
+               <div className="Button">
+                <div>
+                  <Button
+                    variant="primary"
+                    style={{
+                      width: "120px",
+                      borderRadius: "20px",
+                      height: "30px",
+                    }}
+                  >
+                    {" "}
+                    Large
+                  </Button>
+                </div>
+               </div>
+              <Card.Img
+              variant="top"
+              src={finger}
+              alt=""
+              style={{ height: "148px", width: "149px", marginLeft: "30px" }}
+            />
+            </Card.Body>
+          </Card>
+        </Col> */}
+   </div>
     </div>
+   
   );
 };
 

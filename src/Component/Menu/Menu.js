@@ -13,36 +13,53 @@ const Menu = () => {
             We Have <span>Excellent</span> Of
             <span> Quality </span>Pizza
           </h1>
-          <button className="menu-button">See All Menu</button>
+          <button className="menu-button">Order Now</button>
         </div>
         <div>
           <img src={pizza} alt="" />
         </div>
       </div>
-      <div className="menuDiv">
-      <div>
-        <img src={Mutton} alt="" />
+      <div className="menuDiv1">
+        <div>
+          <img src={Mutton} alt="" />
         </div>
         <div>
           <h1 className="Pizza-title">
-           Kolkata<span>Special</span> Mutton
+            Kolkata<span>Special</span> Mutton
             <span>Briyani </span>
-            <h5 style={{fontSize:"20px", marginTop:"opx"}}>We put 100% of love and dedication into our dish</h5>
+            <h5 style={{ fontSize: "20px", marginTop: "opx" }}>
+              We put 100% of love and dedication into our dish
+            </h5>
           </h1>
-        
-          <button className="menu-button">See All Menu</button>
+          <p className="paragraphTag">
+            Biryani is a mixed rice dish originating among the Muslims of the
+            Indian subcontinent{" "}
+            <span>
+              as a variety of Persian pilaf. It is made with Indian spices,
+              rice, ...
+            </span>
+          </p>
+          <button className="menu-button">Order Now</button>
         </div>
-    
       </div>
 
       <div>
-        <div className="menuDiv">
+        <div className="menuDiv2">
           <div>
             <h1 className="Pizza-title">
               Chicken
               <span> King Burger</span>
             </h1>
-            <button className="menu-button">See All Menu</button>
+            <p className="paragraphTag">
+              The company's first major chicken product, its Original Chicken
+              Sandwich,{" "}
+              <span>
+                {" "}
+                was also part of the company's 1978 Specialty Sandwich line. BK
+                Chicken Tenders made ...
+              </span>
+            </p>
+            <button className="menu-button">Order Now</button>
           </div>
           <div>
             <img src={Burger} alt="" />
