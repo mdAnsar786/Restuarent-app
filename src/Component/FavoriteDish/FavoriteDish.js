@@ -42,6 +42,7 @@ const FavoriteDish = () => {
                 ></i>
               </span>
               <span>Order Now</span>
+            
             </div>
           </button>
         </div>
