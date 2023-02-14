@@ -54,7 +54,7 @@ const BestDish = () => {
         </div>
       <div className="pizza-icon">
             {" "}
-            <img src={newPic1} alt="" style={{width:"218px",height:"200px",marginLeft:"38px",marginTop:"37px"}} />
+            <img src={newPic1} alt="" style={{width:"218px",height:"175px",marginLeft:"38px",marginTop:"48px"}} />
           </div>
         </Card>
       </Col>

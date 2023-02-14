@@ -45,14 +45,14 @@ const Recommended = () => {
                     style={{
                       width: "120px",
                       borderRadius: "20px",
-                      height: "30px",
+                      height: "40px",
                     }}
                   >
                     {" "}
                     Large
                   </Button>
                 </div>
-                <div>Price: 120</div>
+                <div style={{paddingTop:"6px"}}>Price: 120</div>
               </div>
             </Card.Body>
           </Card>
@@ -79,14 +79,14 @@ const Recommended = () => {
                     style={{
                       width: "120px",
                       borderRadius: "20px",
-                      height: "30px",
+                      height: "40px",
                     }}
                   >
                     {" "}
                     Large
                   </Button>
                 </div>
-                <div>Price: 80</div>
+                <div style={{paddingTop:"6px"}}>Price: 80</div>
               </div>
             </Card.Body>
           </Card>
@@ -113,14 +113,14 @@ const Recommended = () => {
                     style={{
                       width: "120px",
                       borderRadius: "20px",
-                      height: "30px",
+                      height: "40px",
                     }}
                   >
                     {" "}
                     Large
                   </Button>
                 </div>
-                <div>Price: 50</div>
+                <div style={{paddingTop:"6px"}}>Price: 50</div>
               </div>
             </Card.Body>
           </Card>
@@ -147,14 +147,14 @@ const Recommended = () => {
                     style={{
                       width: "120px",
                       borderRadius: "20px",
-                      height: "30px",
+                      height: "40px",
                     }}
                   >
                     {" "}
                     Large
                   </Button>
                 </div>
-                <div>Price: 80</div>
+                <div style={{paddingTop:"6px"}}>Price: 80</div>
               </div>
             </Card.Body>
           </Card>
@@ -176,14 +176,14 @@ const Recommended = () => {
                     style={{
                       width: "120px",
                       borderRadius: "20px",
-                      height: "30px",
+                      height: "40px",
                     }}
                   >
                     {" "}
                     Large
                   </Button>
                 </div>
-                <div>Price: 110</div>
+                <div style={{paddingTop:"6px"}}>Price: 110</div>
               </div>
             </Card.Body>
           </Card>
@@ -204,14 +204,14 @@ const Recommended = () => {
                     style={{
                       width: "120px",
                       borderRadius: "20px",
-                      height: "30px",
+                      height: "40px",
                     }}
                   >
                     {" "}
                     Large
                   </Button>
                 </div>
-                <div>Price: 120</div>
+                <div style={{paddingTop:"6px"}}>Price: 120</div>
               </div>
             </Card.Body>
           </Card>
@@ -238,14 +238,14 @@ const Recommended = () => {
                     style={{
                       width: "120px",
                       borderRadius: "20px",
-                      height: "30px",
+                      height: "40px",
                     }}
                   >
                     {" "}
                     Large
                   </Button>
                 </div>
-                <div>Price: 140</div>
+                <div style={{paddingTop:"6px"}}>Price: 140</div>
               </div>
             </Card.Body>
           </Card>
@@ -272,14 +272,14 @@ const Recommended = () => {
                     style={{
                       width: "120px",
                       borderRadius: "20px",
-                      height: "30px",
+                      height: "40px",
                     }}
                   >
                     {" "}
                     Large
                   </Button>
                 </div>
-                <div>Price: 100</div>
+                <div style={{paddingTop:"6px"}}>Price: 100</div>
               </div>
             </Card.Body>
           </Card>
