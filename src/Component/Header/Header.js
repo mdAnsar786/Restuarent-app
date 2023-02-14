@@ -15,10 +15,11 @@ const Header = () => {
       <li className="list">Shop</li>
      <img src={image} alt="" className="image-size"/>
      <span style={{ fontSize: "25px",marginLeft: "70px" }}>
-     <i className="fa fa-phone"> +091xxxxxxx45</i>
+     <i className="fa fa-phone"style={{background:"red", borderRadius:"50%",width:"40px",height:"30px",color:"white"}}> </i>
+     <span>+091xxxxxxx45</span>
     </span>
      <span style={{ fontSize: "25px" ,marginLeft: "25px"}}>
-     <i className="fa fa-cart-arrow-down"></i>
+     <i className="fa fa-cart-arrow-down" style={{borderRadius:"50%",background:"orange",color:"white",height:"30px",width:"40px"}}></i>
     </span>
      <span style={{ fontSize: "25px",marginLeft: "25px"}}>
      <i className="fa fa-search magnifying-glass"></i>

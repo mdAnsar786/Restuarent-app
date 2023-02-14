@@ -7,6 +7,7 @@ import FavoriteDish from './Component/FavoriteDish/FavoriteDish';
 import Recommended from './Component/Recommended/Recommended';
 import Menu from './Component/Menu/Menu';
 import Blog from './Component/Blog/Blog';
+import BestDish from './Component/BestDish/BestDish';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <div className="App">
 <Header/>
 <FavoriteDish/>
+<BestDish/>
 <Recommended/>
 <Menu/>
 <Blog/>

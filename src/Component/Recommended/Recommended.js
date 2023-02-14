@@ -27,7 +27,7 @@ const Recommended = () => {
         <button className="toggle">Drinks</button>
         <button className="toggle">Sandwich</button>
       </div>
-      <Row ClassName="row row-cols-1 row-cols-md-4 g-4">
+      <Row ClassName="row row-cols-1 row-cols-md-4 g-4" style={{marginTop:"30px"}}>
         <Col className="Card">
           <Card className="shadow p-3 mb-5 bg-body rounded">
             <Card.Img variant="top" src={version} alt="" />
