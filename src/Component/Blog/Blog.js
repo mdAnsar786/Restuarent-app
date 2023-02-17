@@ -67,7 +67,8 @@ const Blog = () => {
               <Card.Text style={{textAlign:"left", marginTop:"12px"}}>
                 Pizza is a dish of Italian origin consisting of a usually round,
                 flat base of leavened wheat-based dough topped with tomatoes,
-                cheese, and often various
+                based dough topped with tomatoes
+                cheese,
               </Card.Text>
               <div className="Next">
                 <div>
@@ -97,7 +98,7 @@ const Blog = () => {
         <Card.Title style={{marginTop:"15px",textAlign:"left"}}>Hot Chessyraw Pasta Make Creator Fact.</Card.Title>
               <Card.Text style={{textAlign:"left", marginTop:"12px"}}>
                 Pizza is a dish of Italian origin consisting of a usually round,
-                flat base of leavened wheat-based dough topped with tomatoes,
+                flat base of leavened wheat-based dough topped with tomsgbhhtoes,
                 cheese, and often various
               </Card.Text>
               <div className="Next">

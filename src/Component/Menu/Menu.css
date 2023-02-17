@@ -6,7 +6,7 @@
     background-color: #070404;
     color: rgb(249, 249, 249);
     margin-bottom: 10px;
-    /* border: 1px solid black; */
+  
 }
 .menuDiv1{
     display: flex;
@@ -16,7 +16,7 @@
     background-color: #FFFBF5;
     color: rgb(9, 2, 2);
     margin-bottom: 10px;
-    /* border: 1px solid black; */
+ 
 }
 .menuDiv2{
     display: flex;
