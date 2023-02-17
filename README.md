@@ -1,4 +1,4 @@
 # Getting Started with Create React App
 ### app link
-https://restuarent-app.netlify.app/
 
+https://restaurant-app22.netlify.app/
